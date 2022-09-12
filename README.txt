@@ -1,5 +1,5 @@
 === Itech Woo App ===
-Contributors: itechtheme
+Contributors: largebasket
 Donate link: https://itech-softsolutions.com/
 Tags: woocommerce, api
 Requires at least: 3.0.1
